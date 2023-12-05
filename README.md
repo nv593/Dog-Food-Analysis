@@ -32,8 +32,6 @@ Each row in the DataFrame represents a single review and includes various detail
    - Use algorithms like Logestic Regression, Random Forest, and Support Vector Machines for text classification.
 5. **Model Evaluation**: 
    - Assess model performance using metrics such as accuracy, precision, recall, and F1-score.
-6. **Classification**: 
-   - Apply the model to classify all reviews into predefined categories.
 
 ## Insights
 The sentiment analysis provided a clear insights into customer preferences and areas for product and service enhancement. Positive sentiments frequently revolved around words like `'love', 'great', and 'healthy'`, whereas negative sentiments often included words such as `'sick', 'bad', and 'never'`.
