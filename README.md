@@ -39,9 +39,9 @@ Each row in the DataFrame represents a single review and includes various detail
 The sentiment analysis provided a clear insights into customer preferences and areas for product and service enhancement. Positive sentiments frequently revolved around words like `'love', 'great', and 'healthy'`, whereas negative sentiments often included words such as `'sick', 'bad', and 'dislike'`.
 
 
-![wordcloud](./visualizations/positive_cloud.png)
+![wordcloud](./visualizations/positive_cloud.jpg)
 
-![wordcloud](./visualizations/negative_cloud.png)
+![wordcloud](./visualizations/negative_cloud.jpg)
 
 ### Recommendations:
 1. **Product Improvement**: Addressing the issues highlighted in negative feedback and leveraging positive feedback in product innovation.
@@ -57,13 +57,13 @@ The project demonstrates the practical application of machine learning in unders
 
 
 For a more detailed and technical explanation of the project, please refer to the full project report.
-Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Dog-Food-Analysis/blob/main/dog_food_review_notebook.ipynb) or [Presentation](https://github.com/nv593/Dog-Food-Analysis/blob/main/Dog_Food_Review.pdf)
+Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Dog-Food-Analysis/blob/main/dog_food_reviews.ipynb) or [Presentation](https://github.com/nv593/Dog-Food-Analysis/blob/main/Dod_Food_Reviews.pdf)
 
 #### Repository Structure
 
 ```
 ├── data
 ├── visualizations
-├── Dog_Food_Review.pdf
+├── Dog_Food_Reviews.pdf
 ├── README.md
-├── dog_food_review_notebook.ipynb
+├── dog_food_reviews.ipynb
