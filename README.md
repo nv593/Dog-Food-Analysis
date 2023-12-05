@@ -36,7 +36,7 @@ Each row in the DataFrame represents a single review and includes various detail
    - Apply the model to classify all reviews into predefined categories.
 
 ## Insights
-The sentiment analysis provided a clear insights into customer preferences and areas for product and service enhancement. Positive sentiments frequently revolved around words like `'love', 'great', and 'healthy'`, whereas negative sentiments often included words such as `'sick', 'bad', and 'dislike'`.
+The sentiment analysis provided a clear insights into customer preferences and areas for product and service enhancement. Positive sentiments frequently revolved around words like `'love', 'great', and 'healthy'`, whereas negative sentiments often included words such as `'sick', 'bad', and 'never'`.
 
 
 ![wordcloud](./visualizations/positive_cloud.jpg)
