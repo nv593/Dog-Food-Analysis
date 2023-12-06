@@ -62,6 +62,6 @@ Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Dog-Foo
 ```
 ├── data
 ├── visualizations
-├── Dog_Food_Reviews.pdf
 ├── README.md
 ├── dog_food_reviews.ipynb
+├── presentation.pdf
