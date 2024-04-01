@@ -1,5 +1,6 @@
 # Dog Food Reviews Analysis
 
+
 ![Banner](./visualizations/banner.png)
 
 ## Introduction
